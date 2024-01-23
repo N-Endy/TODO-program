@@ -1,0 +1,15 @@
+/home/nelson/Desktop/C#/Udemy/TodoList/bin/Debug/net7.0/TodoList
+/home/nelson/Desktop/C#/Udemy/TodoList/bin/Debug/net7.0/TodoList.deps.json
+/home/nelson/Desktop/C#/Udemy/TodoList/bin/Debug/net7.0/TodoList.runtimeconfig.json
+/home/nelson/Desktop/C#/Udemy/TodoList/bin/Debug/net7.0/TodoList.dll
+/home/nelson/Desktop/C#/Udemy/TodoList/bin/Debug/net7.0/TodoList.pdb
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.csproj.AssemblyReference.cache
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfoInputs.cache
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfo.cs
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.csproj.CoreCompileInputs.cache
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.dll
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/refint/TodoList.dll
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.pdb
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/TodoList.genruntimeconfig.cache
+/home/nelson/Desktop/C#/Udemy/TodoList/obj/Debug/net7.0/ref/TodoList.dll
